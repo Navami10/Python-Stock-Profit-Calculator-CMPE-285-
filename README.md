@@ -73,5 +73,5 @@ $25.25
   
 * Run the python script using he below command
   
-  ####  python3 SCRIPTNAME.py
+   ###  python3 SCRIPTNAME.py
   eg: python3 app.py
