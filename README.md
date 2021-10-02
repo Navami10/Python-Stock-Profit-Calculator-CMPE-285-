@@ -68,8 +68,10 @@ $25.25
 
 ## Steps to run the application:
 * Install Flask using the below command
+  
   pip3 install flask
   
 * Run the python script using he below command
+  
   python3 SCRIPTNAME.py
   eg: python3 app.py
